@@ -1,0 +1,66 @@
+ Expanded(
+                child: TextButton(
+                  style:
+                      TextButton.styleFrom(backgroundColor: Colors.redAccent),
+                  onPressed: () {
+                    playSound(1);
+                  },
+                  child: Text(''),
+                ),
+              ),
+              Expanded(
+                child: TextButton(
+                  style:
+                      TextButton.styleFrom(backgroundColor: Colors.deepOrange),
+                  onPressed: () {
+                    playSound(2);
+                  },
+                  child: Text(''),
+                ),
+              ),
+              Expanded(
+                child: TextButton(
+                  style:
+                      TextButton.styleFrom(backgroundColor: Colors.lightGreen),
+                  onPressed: () {
+                    playSound(3);
+                  },
+                  child: Text(''),
+                ),
+              ),
+              Expanded(
+                child: TextButton(
+                  style: TextButton.styleFrom(backgroundColor: Colors.teal),
+                  onPressed: () {
+                    playSound(4);
+                  },
+                  child: Text(''),
+                ),
+              ),
+              Expanded(
+                child: TextButton(
+                  style: TextButton.styleFrom(backgroundColor: Colors.purple),
+                  onPressed: () {
+                    playSound(5);
+                  },
+                  child: Text(''),
+                ),
+              ),
+              Expanded(
+                child: TextButton(
+                  style: TextButton.styleFrom(backgroundColor: Colors.blue),
+                  onPressed: () {
+                    playSound(6);
+                  },
+                  child: Text(''),
+                ),
+              ),
+              Expanded(
+                child: TextButton(
+                  style: TextButton.styleFrom(backgroundColor: Colors.grey),
+                  onPressed: () {
+                    playSound(7);
+                  },
+                  child: Text(''),
+                ),
+              ),
